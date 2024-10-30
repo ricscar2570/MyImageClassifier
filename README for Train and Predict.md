@@ -1,6 +1,8 @@
 # MyImageClassifier Command Line
 A Python application that can train an image classifier on a dataset, then predict new images using the trained model.
 
+Train.py and Predict.py works from the command line too.
+
 Training a network
 train.py successfully trains a new network on a dataset of images and saves the model to a checkpoint
 
